@@ -1,4 +1,4 @@
-# jeffplate
+# jeffman
 The foundation for a website, in-progress
 
 - Sass
