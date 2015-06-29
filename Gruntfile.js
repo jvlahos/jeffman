@@ -68,6 +68,6 @@ module.exports = function (grunt) {
 
   grunt.registerTask('dev', ['sass:dev', 'postcss']);
   grunt.registerTask('dist', ['sass:dist', 'postcss']);
-  grunt.registerTask('default', ['sass:dev', 'postcss']);
+  grunt.registerTask('default', ['sass:dist', 'postcss']);
 
 };
