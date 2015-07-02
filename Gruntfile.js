@@ -59,7 +59,11 @@ module.exports = function (grunt) {
             ext: '.css'
             }]
         }
-      } //eo postcss
+      }, //eo postcss
+      watch: {
+        files: ['**/*.scss'],
+        tasks: ['sass:dev', 'postcss'],
+      }
   });
 
   grunt.loadNpmTasks('grunt-contrib-sass');
