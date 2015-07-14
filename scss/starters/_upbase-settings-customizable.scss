@@ -1,0 +1,34 @@
+/// Support IE9
+/// @group Settings
+/// @type Bool
+$support-ie9: true;
+
+/// Support IE8
+/// @group Settings
+/// @type Bool
+$support-ie8: true;
+
+/// Support IE7
+/// @group Settings
+/// @type Bool
+$support-ie7: false;
+
+/// IE Conditional Classes
+/// @group Settings
+/// @type Bool
+$ie-conditional-classes: true;
+
+/// Use Modernizr Helpers
+/// @group Settings
+/// @type Bool
+$using-modernizr: true;
+
+/// Image Folder
+/// @group Settings
+/// @type String
+$default-img-path: "";
+
+/// Base value of em in pixels
+/// @group Settings
+/// @type Number
+$em-base: 16;

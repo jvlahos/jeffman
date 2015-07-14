@@ -1,5 +1,74 @@
-@import "base/normalize-custom";
-@import "base/html5bp-custom";
-@import "../vendor/Upbase/components/upbase";
+// --------------------------------------------
+// --------------------------------------------
+// A sample project import file
+// --------------------------------------------
+// --------------------------------------------
 
-@import "base/base";
+
+// Starters
+// --------------------------------------------
+@import "starters/reset-customizable";
+// @import "starters/normalize-customizable";
+@import "starters/html5bp-customizable";
+@import "starters/base";
+
+@import "../vendor/Upbase/components/upbase";
+@import "starters/upbase-settings-customizable";
+
+// Settings
+// --------------------------------------------
+// @import "settings.type";
+// @import "settings.layout";
+// @import "settings.color";
+// @import "settings.borders";
+// @import "settings.universal";
+
+
+// Tools
+// --------------------------------------------
+// @import "tools.functions";
+// @import "tools.mixins";
+// @import "tools.placeholders";
+
+
+// Pages
+// --------------------------------------------
+// @import "page.page";
+// @import "page.single-book";
+// @import "page.archive-book";
+// @import "page.article";
+// @import "page.archive-article";
+// @import "page.single-person";
+// @import "page.error";
+// @import" page.search";
+
+
+
+// Components
+// --------------------------------------------
+// @import "component.section-header";
+// @import "component.media";
+// @import "component.nav-bar";
+// @import "component.page-header";
+// @import "component.filter";
+// @import "component.pagination";
+// @import "component.button";
+// @import "component.modal";
+// @import "component.promo";
+// @import "component.footer";
+// @import "component.book-grid";
+// @import "component.page-grid";
+// @import "component.tease-author";
+// @import "component.tease-book";
+// @import "component.tease-story";
+// @import "component.social";
+// @import "component.recipe";
+// @import "component.howto";
+// @import "component.gallery";
+// @import "component.search";
+
+
+// Trumps
+// --------------------------------------------
+// @import "trumps.themes";
+// @import "trumps.override";

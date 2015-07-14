@@ -8,4 +8,4 @@ The foundation for a website, in-progress
 - Editorconfig
 - SCSS-Lint
 - HTML5BP: Customizable HTML, CSS, JS, and file ideas
-- Normalize: Customizable copy
+- Reset and Normalize: Customizable copies
