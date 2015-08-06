@@ -10,9 +10,9 @@
 @import "starters/reset-customizable";
 // @import "starters/normalize-customizable";
 @import "starters/html5bp-customizable";
-@import "starters/base";
+@import "starters/base-customizable";
 
-@import "../vendor/Upbase/components/upbase";
+@import "../vendor/upbase/scss/upbase";
 @import "starters/upbase-settings-customizable";
 
 // Settings

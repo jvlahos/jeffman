@@ -1,13 +1,13 @@
 {
-  "name": "jeffvlahos.com-2015",
+  "name": "jeffman",
   "version": "0.0.0",
-  "homepage": "https://github.com/jvlahos/jeffvlahos.com-2015",
+  "homepage": "https://github.com/jvlahos/jeffman",
   "authors": [
     "Jeff Vlahos <jeff@jeffvlahos.com>"
   ],
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.4",
-    "Upbase": "https://github.com/Upstatement/upbase.git#upbase-neue"
+    "upbase": "https://github.com/Upstatement/upbase.git#upbase-neue"
   }
 }
