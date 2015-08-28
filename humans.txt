@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-Matt
+Matt Kaiser
     <name> -- <role> -- <twitter>
 
 # THANKS
