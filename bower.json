@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.4",
-    "upbase": "https://github.com/Upstatement/upbase.git#upbase-neue"
+    "upbase": "https://github.com/Upstatement/upbase.git#upbase-neue-ar"
   }
 }

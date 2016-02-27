@@ -10,6 +10,9 @@ https://css-tricks.com/box-sizing/
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
