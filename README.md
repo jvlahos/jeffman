@@ -3,9 +3,8 @@ The foundation for a website, in-progress
 
 - Sass
 - Git
-- Grunt
-- Bower
+- Gulp
 - Editorconfig
-- SCSS-Lint
+- Stylelint
 - HTML5BP: Customizable HTML, CSS, JS, and file ideas
 - Reset and Normalize: Customizable copies

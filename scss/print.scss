@@ -7,7 +7,9 @@ http://www.phpied.com/delay-loading-your-print-css/
 @media print {
   *,
   *:before,
-  *:after {
+  *:after,
+  *:first-letter,
+  *:first-line {
     background: transparent !important;
     color: #000 !important;
     box-shadow: none !important;
@@ -73,4 +75,4 @@ http://www.phpied.com/delay-loading-your-print-css/
     page-break-after: avoid;
   }
 
-} //eo @media print
+}
