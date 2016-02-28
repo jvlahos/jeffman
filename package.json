@@ -1,6 +1,7 @@
 {
   "name": "jeffplate",
-  "version": "0.0.0",
+  "description": "A modern foundation for a website",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/jvlahos/jeffplate.git"
